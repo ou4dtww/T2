@@ -1,5 +1,6 @@
 import re
 
+
 # function to count words in string contents
 def word_count(string):
     return(len(string.strip().split(" ")))
